@@ -5,16 +5,9 @@ This isn’t about summaries — it’s about synthesis and action.
 
 ---
 
-## 📘 Day 1 – *The War of Art*
+## 📘 Day 1 – *AI Valley*
 
-**Top Quotes**
-- “Resistance will tell you anything to keep you from doing your work.”
-- “The amateur believes he must first overcome his fear; the professional knows fear can never be overcome.”
-
-**What Hit Me**
-- Fear = compass.
-- Pros do it anyway.
-- Resistance is predictable, and it dies when you get moving.
+- When I complete tonight, I will write what I learned.
 
 **Action**
 Writing 90 minutes every morning before checking my phone.
